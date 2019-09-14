@@ -1,6 +1,6 @@
 # 🏬 La Bodega 🏬
 
-La Bodega is an app that emulated the experience of shopping at your neighborhood bodega/ corner store deli. La Bodega talks to it's backend La Bodega API which contains seeded instances of produce and the ability to manipulate a customer's cart found in the controllers. 
+La Bodega is an app that emulated the experience of shopping at your neighborhood bodega/ corner store deli. La Bodega talks to it's [backend La Bodega API](https://github.com/tessneau/bodega-app-backend) which contains seeded instances of produce and the ability to manipulate a customer's cart found in the controllers. 
 
 ![app runthrough gif](https://giant.gfycat.com/FragrantSkinnyGemsbuck.gif)
 
